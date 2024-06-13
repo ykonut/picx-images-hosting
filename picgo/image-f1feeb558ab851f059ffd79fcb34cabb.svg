@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="200"
+   viewBox="0 0 800 200"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="game.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px" />
+  <defs
+     id="defs1">
+    <rect
+       x="99.644722"
+       y="322.89935"
+       width="83.24749"
+       height="51.293907"
+       id="rect7" />
+    <marker
+       style="overflow:visible"
+       id="marker6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker6-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6-6" />
+    </marker>
+    <rect
+       x="99.644722"
+       y="322.89935"
+       width="135.38228"
+       height="37.839767"
+       id="rect7-7" />
+    <marker
+       style="overflow:visible"
+       id="marker6-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6-61" />
+    </marker>
+    <rect
+       x="99.644722"
+       y="322.89935"
+       width="118.14417"
+       height="46.669048"
+       id="rect7-4" />
+    <marker
+       style="overflow:visible"
+       id="marker6-14"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6-7" />
+    </marker>
+    <rect
+       x="99.644722"
+       y="322.89935"
+       width="120.24637"
+       height="40.78286"
+       id="rect7-5" />
+    <marker
+       style="overflow:visible"
+       id="marker6-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path6-9" />
+    </marker>
+    <rect
+       x="99.644722"
+       y="322.89935"
+       width="83.24749"
+       height="51.293907"
+       id="rect7-8" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g7"
+       transform="translate(-21.661459,-8.3364173)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.71981;stroke-dasharray:none;marker-end:url(#Triangle)"
+         d="M 83.314874,50.325533 H 753.90087"
+         id="path2"
+         inkscape:export-filename="game.svg"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.77205;stroke-dasharray:none"
+         d="M 136.59621,50.325533 Z"
+         id="path3" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.66154;stroke-dasharray:none;marker-end:url(#marker6)"
+         d="M 125.55994,144.22784 V 61.672414"
+         id="path4" />
+      <text
+         xml:space="preserve"
+         id="text7"
+         style="font-size:16px;white-space:pre;shape-inside:url(#rect7);fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+         transform="translate(-11.340587,-171.30917)"><tspan
+           x="99.644531"
+           y="338.97844"
+           id="tspan4"><tspan
+             style="font-family:'Source Han Sans SC';-inkscape-font-specification:'Source Han Sans SC'"
+             id="tspan1">P</tspan><tspan
+             style="font-family:'Source Han Sans SC';-inkscape-font-specification:'Source Han Sans SC'"
+             id="tspan2">选择合约</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.66154;stroke-dasharray:none;marker-end:url(#marker6-5)"
+         d="M 400,144.22784 V 61.672414"
+         id="path4-3" />
+      <text
+         xml:space="preserve"
+         id="text7-8"
+         style="font-size:16px;white-space:pre;shape-inside:url(#rect7-4);fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+         transform="translate(247.76347,-169.22209)"><tspan
+           x="99.644531"
+           y="338.97844"
+           id="tspan7"><tspan
+             style="font-family:'Source Han Sans SC';-inkscape-font-specification:'Source Han Sans SC'"
+             id="tspan5">A</tspan><tspan
+             style="font-family:'Source Han Sans SC';-inkscape-font-specification:'Source Han Sans SC'"
+             id="tspan6">选择努力程度</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.66154;stroke-dasharray:none;marker-end:url(#marker6-1)"
+         d="M 250.55251,144.22784 V 61.672414"
+         id="path4-8" />
+      <text
+         xml:space="preserve"
+         id="text7-4"
+         style="font-size:16px;white-space:pre;shape-inside:url(#rect7-7);fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+         transform="translate(92.72617,-169.15009)"><tspan
+           x="99.644531"
+           y="338.97844"
+           id="tspan10"><tspan
+             style="font-family:'Source Han Sans SC';-inkscape-font-specification:'Source Han Sans SC'"
+             id="tspan8">A</tspan><tspan
+             style="font-family:'Source Han Sans SC';-inkscape-font-specification:'Source Han Sans SC'"
+             id="tspan9">选择接受或拒绝</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.66154;stroke-dasharray:none;marker-end:url(#marker6-14)"
+         d="M 551.03867,144.61355 V 62.058127"
+         id="path4-2" />
+      <text
+         xml:space="preserve"
+         id="text7-2"
+         style="font-size:16px;white-space:pre;shape-inside:url(#rect7-5);display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+         transform="translate(397.13814,-169.17409)"><tspan
+           x="99.644531"
+           y="338.97844"
+           id="tspan13"><tspan
+             style="font-family:'Source Han Sans SC';-inkscape-font-specification:'Source Han Sans SC'"
+             id="tspan11">N</tspan><tspan
+             style="font-family:'Source Han Sans SC';-inkscape-font-specification:'Source Han Sans SC'"
+             id="tspan12">选择自然状态</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.66154;stroke-dasharray:none;marker-end:url(#marker6-4)"
+         d="M 684.8585,144.61355 V 62.058127"
+         id="path4-1" />
+      <text
+         xml:space="preserve"
+         id="text7-9"
+         style="font-size:16px;white-space:pre;shape-inside:url(#rect7-8);display:inline;fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
+         transform="translate(553.25397,-169.19009)"><tspan
+           x="99.644531"
+           y="338.97844"
+           id="tspan15"><tspan
+             style="font-family:'Source Han Sans SC';-inkscape-font-specification:'Source Han Sans SC'"
+             id="tspan14">结算结果</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
